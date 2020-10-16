@@ -40,4 +40,35 @@ Esta es una maqueta de un portafolio web
 ### DAMOS LOS ESTILOS PRINCIPALES.
 ![11 (DAMOS LOS ESTILOS PRINCIPALES)](https://user-images.githubusercontent.com/71306261/96199090-3d7c7680-0f1c-11eb-85de-52e64e149c6a.jpg)
 
+### DISEÑO DE LA CABECERA.
+![12 (cabecera)](https://user-images.githubusercontent.com/71306261/96199726-cb0c9600-0f1d-11eb-98ee-8fdc1b9d74d8.jpg)
+![13 (cabecera)](https://user-images.githubusercontent.com/71306261/96199746-d3fd6780-0f1d-11eb-9b83-5ec568af3150.jpg)
+
+### DISEÑO DE "ACERCA DE (NUESTRO PRODUCTO).
+![14 (Seccion acerca de 1)](https://user-images.githubusercontent.com/71306261/96199792-ebd4eb80-0f1d-11eb-908d-320e60bf2fb5.jpg)
+![14 (Seccion acerca de 2)](https://user-images.githubusercontent.com/71306261/96199806-f55e5380-0f1d-11eb-86aa-7a9ef359605d.jpg)
+
+### DISEÑO DE PORTAFOLIO.
+![15 (portafolio 1)](https://user-images.githubusercontent.com/71306261/96199846-0c04aa80-0f1e-11eb-851e-f3e8ab39de83.jpg)
+![15 (portafolio 2)](https://user-images.githubusercontent.com/71306261/96199863-13c44f00-0f1e-11eb-8821-e009193bed2d.jpg)
+
+### DISEÑO DE CLIENTES.
+![16 (clientes 1)](https://user-images.githubusercontent.com/71306261/96199891-276fb580-0f1e-11eb-8078-f83a199ddae7.jpg)
+![16 (clientes 2)](https://user-images.githubusercontent.com/71306261/96199902-2fc7f080-0f1e-11eb-887e-5b1bf5e29c30.jpg)
+
+### DISEÑO DE SERVICIOS.
+![17 (servicios)](https://user-images.githubusercontent.com/71306261/96199912-38202b80-0f1e-11eb-93f5-98454cd7755b.jpg)
+
+### DISEÑO DE PIE DE PAGINA.
+![18 (pie de pagina 1)](https://user-images.githubusercontent.com/71306261/96199914-39e9ef00-0f1e-11eb-9bf1-41c0eaa3600f.jpg)
+![18 (pie de pagina 2)](https://user-images.githubusercontent.com/71306261/96199921-3eaea300-0f1e-11eb-9c54-ba48d02cec4d.jpg)
+
+
+
+
+
+
+
+
+
 
