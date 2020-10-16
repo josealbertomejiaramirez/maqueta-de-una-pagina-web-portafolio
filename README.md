@@ -1,5 +1,6 @@
 # maqueta-de-una-pagina-web-portafolio
 Esta es una maqueta de un portafolio web 
+##Alumno:José Alberto Mejia Ramírez Numero de control:171160159
 ### En este pequeño proyecto, se desarrollo una maqueta de un portafolio web, acerca de una empresa de diseño, se utilizaron las herramientas visual studio code, junto con html y css.
 
 ### CREACIÓN DEL CODIGO HTML.
