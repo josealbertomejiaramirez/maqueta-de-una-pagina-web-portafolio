@@ -27,3 +27,17 @@ Esta es una maqueta de un portafolio web
 ### PAGINA FINAL EN HTML".
 #### Una vez echo todas las secciones e incrustado todos los elemntos, la pagina quedara asi solo en html para posteriormente darle estilo en css.
 ![9 (evidencia 1)](https://user-images.githubusercontent.com/71306261/96198618-fcd02d80-0f1a-11eb-927a-2524a15fbf0f.jpg)
+![9 (evidencia 2)](https://user-images.githubusercontent.com/71306261/96198703-2be69f00-0f1b-11eb-9863-1e821be74ac9.jpg)
+![9 (evidencia 3)](https://user-images.githubusercontent.com/71306261/96198712-3143e980-0f1b-11eb-895a-d98eac0fa28e.jpg)
+![9 (evidencia 4)](https://user-images.githubusercontent.com/71306261/96198716-330dad00-0f1b-11eb-8def-b723f0f0202b.jpg)
+![9 (evidencia 5)](https://user-images.githubusercontent.com/71306261/96198727-3a34bb00-0f1b-11eb-8828-d316684cddce.jpg)
+![9 (evidencia 6)](https://user-images.githubusercontent.com/71306261/96198729-3bfe7e80-0f1b-11eb-885d-512b9a089668.jpg)
+![9 (evidencia 7)](https://user-images.githubusercontent.com/71306261/96198731-3d2fab80-0f1b-11eb-9791-bb1342eeed38.jpg)
+
+### AHORA CREAREMOS Y ENLAZAREMOS EL CSS.
+![10 (crear y enlazar el css)](https://user-images.githubusercontent.com/71306261/96198976-e676a180-0f1b-11eb-8439-7888961eacb9.jpg)
+
+### DAMOS LOS ESTILOS PRINCIPALES.
+![11 (DAMOS LOS ESTILOS PRINCIPALES)](https://user-images.githubusercontent.com/71306261/96199090-3d7c7680-0f1c-11eb-85de-52e64e149c6a.jpg)
+
+
